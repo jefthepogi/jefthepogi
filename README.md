@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding lol
 - 🌱 I’m currently learning coding lol
 - 💞️ I’m looking to collaborate on coding lol
-- 📫 How to reach me: via discord
+- 📫 How to reach me: unknownuser999 via discord
 
 <!---
 jefthepogi/jefthepogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
