@@ -1,10 +1,11 @@
 ## 👺 About Me
-Hello, my name is Jef Russel Manongas. 
-> I'm an aspiring software engineer.
-#### My Accomplishments
-* Finished CS50x
-* That is it, foo :<
+Hello, my name is Jef Russel Manongas. I'm a huge advocate of Free and Open Source Softwares (FOSS)
+> An aspiring software engineer.
+> Dreams of sunshine and rainbows.
 
+#### Certs ✨
+* CS50x
+* Google's Intro to Cybersecurity 
 
 
 ## 🔗 Links
